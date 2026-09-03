@@ -1,9 +1,9 @@
-! 2026-06-11
+! 2026-09-03
 anton.app
 apachefriends.org
 aria.microsoft.com
 blooket.com
-cloud.microsoft
+@@||cloud.microsoft^
 dl.delivery.mp.microsoft.com
 dm.microsoft.com
 do.dsp.mp.microsoft.com
@@ -37,11 +37,11 @@ redirector.gvt1.com
 s.pinimg.com
 sdk.privacy-center.org
 sponsor.ajay.app
-static.microsoft
+@@||static.microsoft^
 tracking-protection.cdn.mozilla.net
 tracking-protection.prod.mozaws.net
 ublockorigin.pages.dev
-usercontent.microsoft
+@@||usercontent.microsoft^
 wistia.com
 wns.windows.com
 writing.ikmplus.at
@@ -54,3 +54,4 @@ www.eurogamer.net
 www.pcgamer.com
 ping.citrix.com
 outlook.office365.com
+www.pcgamesn.com
